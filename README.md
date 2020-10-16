@@ -13,4 +13,5 @@
 
 ### Get in touch
 - Twitter - https://twitter.com/starlingvibe
+- LinkedIn - https://linkedin.com/in/chideraanichebe
 - Email: chidexy67@gmail.com
