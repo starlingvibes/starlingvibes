@@ -1,3 +1,5 @@
+![Image of Yaktocat](https://unsplash.com/photos/ieic5Tq8YMk/download?force=true&w=640)
+
 ## Hi there 👋
 
 <!--
