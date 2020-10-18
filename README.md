@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://i.ibb.co/b7LxNBp/rsz-chris-ried-ieic5tq8ymk-unsplash.png)
+![Software Development with Python](https://i.ibb.co/b7LxNBp/rsz-chris-ried-ieic5tq8ymk-unsplash.png)
 
 ## Hi there 👋
 
