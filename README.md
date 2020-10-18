@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://unsplash.com/photos/ieic5Tq8YMk/download?force=true&w=640)
+![Image of Yaktocat](https://i.ibb.co/b7LxNBp/rsz-chris-ried-ieic5tq8ymk-unsplash.png)
 
 ## Hi there 👋
 
