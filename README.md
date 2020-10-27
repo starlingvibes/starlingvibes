@@ -11,7 +11,7 @@
 - 👯 I’m looking to collaborate on Open Source projects, ideally Network Security tools
 - 💬 Ask me about Networking, Security and Open Source
 - 📫 How to reach me: `Twitter`- @starlingvibe
-- ⚡ Fun fact: I like food :-)
+- ⚡ Fun fact: If I'm on your network, I'm either `root` or `sysadmin`
 
 ### Get in touch
 - Twitter - https://twitter.com/starlingvibe
