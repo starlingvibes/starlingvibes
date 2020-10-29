@@ -1,5 +1,7 @@
 ![Software Development with Python](https://i.ibb.co/b7LxNBp/rsz-chris-ried-ieic5tq8ymk-unsplash.png)
 
+<p align="right"><img src="./starlingroot.png"></p>
+
 ## Hi there 👋
 
 <!--
@@ -16,4 +18,4 @@
 ### Get in touch
 - Twitter - https://twitter.com/starlingvibe
 - LinkedIn - https://linkedin.com/in/chideraanichebe
-- Email: chidexy67@gmail.com
+- Email: starlingroot@protonmail.com
