@@ -2,7 +2,7 @@
 
 <p align="right"><img src="./starlingroot.png"></p>
 
-## Hi there 👋
+## root@github:~$whoami
 
 <!--
 **starlingvibes/starlingvibes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
@@ -15,7 +15,7 @@
 - 📫 How to reach me: `Twitter`- @starlingvibe
 - ⚡ Fun fact: If I'm on your network, I'm either `root` or `admin`
 
-### Get in touch
+### root@github:~$ls ./socials
 - Twitter - https://twitter.com/starlingvibe
 - LinkedIn - https://linkedin.com/in/chideraanichebe
 - Email: starlingroot@protonmail.com
