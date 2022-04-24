@@ -15,7 +15,7 @@
 - 📫 How to reach me: `Twitter`- @starlingvibe
 - ⚡ Fun fact: If I'm on your network, I'm either `root` or `admin`
 
-### root@github:~$cat ./git-stat
+### root@github:~$xdg-open ./git-stat.png
 <img src="https://github-readme-stats.vercel.app/api?username=starlingvibes&show_icons=true"/>
 
 ### root@github:~$ls ./socials
