@@ -15,11 +15,14 @@
 - 📫 How to reach me: `Twitter`- @starlingvibe
 - ⚡ Fun fact: If I'm on your network, I'm either `root` or `admin`
 
-### root@github:~$xdg-open ./git-stat.png
+### root@github:~$cat ./git-stat
 <img src="https://github-readme-stats.vercel.app/api?username=starlingvibes&show_icons=true"/>
 
 ### root@github:~$py languages.py
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=starlingvibes&layout=compact"/>
+
+### root@github:~$xdg-open ./contrib-streak.png
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=starlingvibes"/>
 
 ### root@github:~$ls ./socials
 - Twitter - https://twitter.com/starlingvibe
