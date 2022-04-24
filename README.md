@@ -18,6 +18,9 @@
 ### root@github:~$xdg-open ./git-stat.png
 <img src="https://github-readme-stats.vercel.app/api?username=starlingvibes&show_icons=true"/>
 
+### root@github:~$py languages.py
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=starlingvibes&layout=compact"/>
+
 ### root@github:~$ls ./socials
 - Twitter - https://twitter.com/starlingvibe
 - LinkedIn - https://linkedin.com/in/chideraanichebe
