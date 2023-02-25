@@ -1,4 +1,4 @@
-<a href="https://app.daily.dev/starlingroot"><img src="https://api.daily.dev/devcards/1a42c047094049d8b5c4c038f135c285.png?r=5b1" width="400" alt="starlingroot's Dev Card"/></a>
+<a href="https://app.daily.dev/starlingroot"><img src="https://github.com/starlingvibes/starlingvibes/blob/main/devcard.svg" width=400></a>
 
 <p align="right"><img src="./starlingroot.png"></p>
 
