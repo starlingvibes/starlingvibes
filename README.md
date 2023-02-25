@@ -1,4 +1,4 @@
-![Software Development with Python](https://i.ibb.co/b7LxNBp/rsz-chris-ried-ieic5tq8ymk-unsplash.png)
+<a href="https://app.daily.dev/starlingroot"><img src="https://api.daily.dev/devcards/1a42c047094049d8b5c4c038f135c285.png?r=5b1" width="400" alt="starlingroot's Dev Card"/></a>
 
 <p align="right"><img src="./starlingroot.png"></p>
 
@@ -35,5 +35,3 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
-
-![](https://komarev.com/ghpvc/?username=starlingvibes)
