@@ -7,11 +7,11 @@
 <!--
 **starlingvibes/starlingvibes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-   I'm Chidera, a Software Engineer learning to develop exploits with Python and deploy web apps with Django/Flask. I'm also a Cybersecurity and Open Source enthusiast interested in Web technologies such as Vanilla JS, HTML and CSS
-
-- 🌱 I’m currently learning Django and Exploit Development with Python
-- 👯 I’m looking to collaborate on Open Source projects, ideally Network Security tools
-- 💬 Ask me about Networking, Security and Open Source
+   I'm Chidera, a Software Engineer specializing in building Backend infrastructure with NodeJS, Django and more recently, Golang. I'm also a Security Engineer and Open sourcerer interested in Web security, Reverse Engineering and Blockchain technology.
+   
+- 🌱 I’m currently learning Backend development with Go
+- 👯 I’m looking to collaborate on open source projects
+- 💬 Ask me about Networking, Security and Open source
 - 📫 How to reach me: `Twitter`- @starlingvibe
 - ⚡ Fun fact: If I'm on your network, I'm either `root` or `admin`
 
