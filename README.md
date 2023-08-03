@@ -1,13 +1,9 @@
-<a href="https://app.daily.dev/starlingroot"><img src="https://github.com/starlingvibes/starlingvibes/blob/main/devcard.svg" width=400></a>
-
-<p align="right"><img src="./starlingroot.png"></p>
-
 ## root@github:~$whoami
 
 <!--
 **starlingvibes/starlingvibes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-   I'm Chidera, a Software Engineer specializing in building Backend infrastructure with NodeJS, Django and more recently, Golang. I'm also a Security Engineer and Open sourcerer interested in Web security, Reverse Engineering and Blockchain technology.
+   I'm Chidera, a Software Engineer specialized in building Backend Infrastructure with NodeJS, PHP, Django and more recently, Golang. I'm also a Security Engineer and Open sourcerer interested in Web security, Reverse Engineering and Blockchain technology.
    
 - 🌱 I’m currently learning Backend development with Go
 - 👯 I’m looking to collaborate on open source projects
@@ -38,3 +34,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+
+<a href="https://app.daily.dev/starlingroot"><img src="https://github.com/starlingvibes/starlingvibes/blob/main/devcard.svg" width=400></a>
+
+<p align="right"><img src="./starlingroot.png"></p>
