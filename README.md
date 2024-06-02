@@ -36,5 +36,6 @@
 <code><img width="12%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
 
 <a href="https://app.daily.dev/starlingroot"><img src="https://github.com/starlingvibes/starlingvibes/blob/main/devcard.svg" width=400></a>
+<a href="https://app.daily.dev/starlingroot"><img src="https://api.daily.dev/devcards/v2/0KBecrvEiGe56uhA4mJFO.png?r=9ti" width="356" alt="Chidera Anichebe's Dev Card"/></a>
 
 <p align="right"><img src="./starlingroot.png"></p>
