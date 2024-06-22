@@ -13,7 +13,7 @@
 ![](https://github-profile-trophy.vercel.app/?username=starlingvibes&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 ## 🌐 root@github:~$ls ./socials
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chideraanichebe) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/codemon) 📧: dera[at]ieee[dot]org
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/chideraanichebe) 📧: dera[at]ieee[dot]org
 
 ## 🤖 Dev card
 <a href="https://app.daily.dev/starlingroot"><img src="https://api.daily.dev/devcards/v2/0KBecrvEiGe56uhA4mJFO.png?type=wide&r=im5" width="652" alt="Chidera Anichebe's Dev Card"/></a>
